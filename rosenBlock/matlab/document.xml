@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[syms x y;
+
+f = 100*(y - x^2)^2 + (1 - x)^2
+
+fx = diff(f,x)
+
+fy = diff(f,y)]]></w:t></w:r></w:p></w:body></w:document>
